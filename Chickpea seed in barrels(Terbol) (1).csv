@@ -1,0 +1,433 @@
+Barrel_No,Barrel_type,Trial name,Plot no.
+1,Big,Bulk 2007,48201-48800
+2,Big,Bulk 2007,48801-49300
+3,Big,Bulk 2007,49301-49784
+4,Big,Bulk 2009,50101-50800
+5,Big,Bulk 2009,50801-51500
+6,Big,Bulk 2010,51601-52300
+7,Big,Bulk 2010,52301-53031
+8,Big,"Res. AB,FW,CT,DT, AB3",
+9,Big,"AB1,AB2,AB4,A5,A6",
+10,Big,"FW1,FW2,CT,DR1, Bulk00,Bulk01, DR3",
+11,Big,Desi tilling,
+12,Big,"Bulk2002,Bulk2003,Bulk2004,DR2, DiffFW",
+13,Big,"FLIP86-5C (Balila2), FLIP06-155C, ILC3279, FLIP82-150C",
+14,Big,"Salt1, Salt2, LA1, LM1, AB8, Nem1, CIDTN013, CIABN013, Res.s(DR), F3RLIs(Dev.),  Demo.(AB), Demo.(FW), Demo.(CT), Demo.(DR), WBPT",
+15,Big,"Bulk2006, Res seed Bulk015, F4ssd(X013-KF.)2017 ",
+16,Big,"ILC533, ILC1929, FLIP97-107, FLIP87-59, ILC263, ILC484, Balila, ILC3397, ILC12004,  Kaka",
+17,Big,INC(AUB)013,40001-40113
+18,Big,INC(AUB)013,40114-40253
+19,Big,INC(AUB)013,40254-40375
+20,Big,INC(AUB)013,40376-40495
+21,Big,INC(AUB)013,40496-40610
+22,Big,INC(AUB)013,40611-40669
+23,Big,INC(AUB)013,
+24,Big,INC(AUB)013,
+25,Big,"INC. 2015 (CAT, CICTN)",
+26,Big,"INC. 2015 (CIDTN, CIEN-E, CIEN-S, CIEN-LS)",
+27,Big,"INC. 2015 (CIABN, CIEN-W, CIEWN)",
+28,Big,"Heat Trials2013, Herbicide2014",
+29,Big,INC.014(AUB),70001-70067
+30,Big,INC.014(AUB),70068-70134
+31,Big,INC.014(AUB),70135-70200
+32,Big,INC.014(AUB),70201-70267
+33,Big,INC.014(AUB),70268-70337
+34,Big,INC.014(AUB),70335-70403
+35,Big,INC.014(AUB),70404-70474
+36,Big,INC.014(AUB),70475-70538
+37,Big,INC.014(AUB),70539-70599
+38,Big,"INC.014(AUB), Demo2014",70600-70648
+39,Big,"FLIP88-85C, FLIP97-677, FLIP87-59C, FLIP09-68C",
+40,Big,Parents CB. 014,1-1    -    55-2
+41,Big,"Remaining RILs (Plastic house)2014-2015, NL. Pakistan & India(ISO)012, DIFF(FW)014, DIFF(AB) 014, Parents CB.014",
+42,Big,"Janta2, FLIP98-117C, FLIP93-58C, FLIP93146C, FLIP87-59C, ILC533, FLIP97-137C",
+43,Big,Bulk013,
+44,Big,Bulk013,
+45,Big,Bulk013,
+46,Big,F1 2016,
+47,Big,"F4ssd E. (FW)2016, F1 2014, CB.2014",
+48,Big,,
+49,Big,"ILC263, FLIP09-77C",
+50,Big,"FLIP11-01C, ILC1929, FLIP84-15C",
+51,Big,FLIP11-01C,
+52,Big,"FLIP86-05C, FLIP09-77C",
+53,Big,,
+54,Big,"FLIP93-93C, FLIP06-155C",
+55,Big,"FLIP97-706C, FLIP05-4C, FLIP04-05C, FLIP84-92C, FLIP97-07C",
+101,Medium,Subset(DR),22201-22227
+102,Medium,Subset(DR),22228-22254
+103,Medium,Subset(DR),22255-22284
+104,Medium,Subset(DR),22285-22309
+105,Medium,Subset(DR),22310-22337
+106,Medium,Subset(DR),22338-22366
+107,Medium,Subset(DR),22367-22392
+108,Medium,Subset(DR),22393-33420
+109,Medium,Subset(DR),22421-22443
+110,Medium,Buli011(inc),20701-20792
+111,Medium,Buli011(inc),20793-20880
+112,Medium,Buli011(inc),20881-20945
+113,Medium,Desi tilling,44601-46921
+114,Medium,Desi tilling,46922-47200
+115,Medium,Desi tilling,47201-47490
+116,Medium,Desi tilling,47491-47800
+117,Medium,Desi tilling,47801-48024
+118,Medium,"Desi tilling(Aleppo), F5RILs(CT2)2017",
+119,Medium,Subset(FW),22044-22074
+120,Medium,Subset(FW),22075-22102
+121,Medium,Subset(FW),22103-22136
+122,Medium,Subset(FW),22137-22167
+123,Medium,Subset(FW),22168-22185
+124,Medium,CIEN-W (2012),
+125,Medium,Bulk014 (2016),21001-21163
+126,Medium,Bulk014 (2016),21164-21322
+127,Medium,Bulk014 (2016),21323-21400
+128,Medium,Bulk014 (2016),21401-21666
+129,Medium,Bulk014 (2016),21667-21802
+130,Medium,CIENW (2012),
+131,Medium,Subset(CT),22501-22547
+132,Medium,Subset(CT),22548-22581
+133,Medium,Subset(CT),22582-22615
+134,Medium,Subset(CT),22620-22646
+135,Medium,Subset(CT),22647-22700
+136,Medium,CIEN-S (2014),
+137,Medium,CIEN-W (2014),
+138,Medium,CIEN-LA (2014),
+139,Medium,E. maturity (2016),
+140,Medium,NL.AUS(inc)2015,49101-49130
+141,Medium,NL.AUS(inc)2015,49131-49155
+142,Medium,NL.AUS(inc)2015,49156-49175
+143,Medium,CB.016 Parents,1-1 to 32-2
+144,Medium,CB.016 Parents,33-1 to 68-2
+145,Medium,CB.016 Parents,69-1 to 102-2
+146,Medium,CB.016 Parents,103-1 to 153-2
+147,Medium,"RILsAB7(2016), RILsAB5(2016)",
+148,Medium,Herbicide2016,
+149,Medium,"Demo.2015 , ",1 to 20
+150,Medium,"Wild sp. (inc), Herbicide (inc)",49201-49234           48901-48912
+151,Medium,Diff inc. 2016,34501-34544
+152,Medium,RILs DR(2016),
+153,Medium,"RILs Salt2(2016), F5RILs(DR4)2017",
+154,Medium,"F8prog.(DR)KF.2017, F8prog.Ksh. 2017",
+155,Medium,F3prog.E(fw) 2016,
+156,Medium,INC.2017(AREC),60001-60096
+157,Medium,INC.2017(AREC),60097-60200
+158,Medium,INC.2017(AREC),60201-60297
+159,Medium,INC.2017(AREC),60298-60374
+201,Small,"PYT 1,PYT2,PYT3 (2011)",
+202,Small,"PYT 4,PYT5,PYT6 (2011)",
+203,Small,"PYT7,CAT,CICTN",
+204,Small,"CIEN-S, CIEN-W (2011)",
+205,Small,"CIEN-SL1, CIEN-SL2 (2011)",
+206,Small,"CIEN-LA, CIFWN  (2011)",
+207,Small,"PYT1, CIEN-W  (2012)",
+208,Small,"PYT2, CIEN-SL2  (2012)",
+209,Small,"PYT3, CAT  (2012)",
+210,Small,"PYT4, CIEN-S  (2012)",
+211,Small,"PYT5, CIEN-LA  (2012)",
+212,Small,"PYT6, CIEN-SL1  (2012)",
+213,Small,"PYT7, CICTN, CIFWN  (2012)",
+214,Small,DR1   (2011),62601-62670
+215,Small,DR1   (2011),62701-62752
+216,Small,DR1   (2011),62801-62875
+217,Small,DR1   (2011),62876-62952
+218,Small,CIEN-W 013,entry  1-23
+219,Small,CIEN-W 013,entry  24-44
+220,Small,CIEN-S 013,entry  1-21
+221,Small,CIEN-S 013,entry  22-44
+222,Small,CIEN-LA 013,entry  2-23
+223,Small,CIEN-LA 013,entry  24-44
+224,Small,CIEN-SL1 013,entry  1-25
+225,Small,CIEN-SL1 013,entry  26-44
+226,Small,CIEN-SL2 013,entry  1-24
+227,Small,CIEN-SL2 013,entry  25-44
+228,Small,"CICTN 013,  PYT1  2016",entry  1-24
+229,Small,PYT1 2016,off season
+230,Small,PYT2  2016,entry  1-24
+231,Small,PYT2  2016,entry  25-48
+232,Small,PYT3 2016,entry  1-24
+233,Small,PYT3 2016,entry  25-48
+234,Small,PYT4 2016,entry  1-24
+235,Small,PYT4 2016,entry  25-48
+236,Small,PYT5 2016,entry  1-24
+237,Small,PYT5 2016,entry  25-48
+238,Small,PYT6 2016,entry  1-24
+239,Small,PYT6 2016,entry  25-48
+240,Small,PYT7 2016,entry  1-24
+241,Small,PYT7 2016,entry  25-48
+242,Small,Demo 2014,
+243,Small,PYT-1 (Winter+ Spring)  2014,Rep1
+244,Small,PYT-1 (Winter+ Spring)  2014,Rep2
+245,Small,PYT-2 (Winter+ Spring)  2014,Rep1
+246,Small,PYT-2 (Winter+ Spring)  2014,Rep2
+247,Small,PYT-3 (Winter+ Spring)  2014,Rep1
+248,Small,PYT-3 (Winter+ Spring)  2014,Rep2
+249,Small,PYT-4 (Winter+ Spring)  2014,Rep1
+250,Small,PYT-4 (Winter+ Spring)  2014,Rep2
+251,Small,PYT-5 (Winter+ Spring)  2014,Rep1
+252,Small,PYT-5 (Winter+ Spring)  2014,Rep2
+253,Small,PYT-6 (Winter+ Spring)  2014,Rep1
+254,Small,PYT-6 (Winter+ Spring)  2014,Rep2
+255,Small,PYT-7 (Winter+ Spring)  2014,Rep1
+256,Small,PYT-7 (Winter+ Spring)  2014,Rep2
+257,Small,PYT-8 (Winter+ Spring)  2014,Rep1
+258,Small,PYT-8 (Winter+ Spring)  2014,Rep2
+259,Small,PYT-1 (Spring) 2015,
+260,Small,PYT-1+PYT2(Spring)  2015,
+261,Small,PYT-2 (Spring) 2015,
+262,Small,PYT-3 (Winter+ Spring)  2015,
+263,Small,PYT-3+PYT4(Spring)  2015,
+264,Small,PYT-4 (Spring)  2015,
+265,Small,PYT-5 (Spring)  2015,
+266,Small,PYT-6 (Spring)  2015,
+267,Small,CIEN-LA (Spring) 2015,
+268,Small,CIEN-SL1 (spring) 2015,
+269,Small,CIEN-W (spring) 2015 + CAT 1-6 ent. (spring) 2015,
+270,Small,CAT 7-36 ent.  (spring) 2015,
+271,Small,CIEN-SL2 (spring) 2015,
+272,Small,CIEN-S (spring) 2015,
+273,Small,NL. USA (YT.)2015,
+274,Small,NL. India (YT.)2015,
+275,Small,NL. India (YT.)2015,
+276,Small,RILs (AB4) 2015,49401-49500
+277,Small,RILs (AB4) 2015,49501-49585
+278,Small,Early maturity summer (parents) 2015,64001-64100
+279,Small,Early maturity summer (parents) 2015,64101-64229
+280,Small,Early maturity summer (parents) 2015,64230-64359
+281,Small,Mechanical Harvesting 2015,44701-44707
+282,Small,Mechanical Harvesting 2015,44708-44721
+283,Small,Mechanical Harvesting 2015,44722-44809
+284,Small,Mechanical Harvesting 2015,44810-44824
+285,Small,CB.2015  (Parents),1-1  to 41-2
+286,Small,CB.2015  (Parents),42-1  to 80-1
+287,Small,CB.2015  (Parents),81-1 to 116-2
+288,Small,CB.2015  (Parents),117-1 to 151-2
+289,Small,CB.2015  (Parents) + Magic (plastic house)+Rem seed CB.017,152-1 to 160-2
+290,Small,CB.2017  (Parents),1-1 to 30-2
+291,Small,CB.2017  (Parents),31-1 to59-2
+292,Small,CB.2017  (Parents),60-1 to 86-2
+293,Small,CB.2017  (Parents),87-1 to 125-2
+294,Small,CB.2017  (Parents),126-1 to 161-2
+295,Small,Kabuli tilling,1-130
+296,Small,Kabuli tilling,131-260
+297,Small,Kabuli tilling,261-400
+298,Small,Kabuli tilling,401-530
+299,Small,Kabuli tilling,531-673
+300,Small,Kabuli tilling,674-800
+301,Small,Kabuli tilling,801-943
+302,Small,Kabuli tilling,944-1082
+303,Small,Kabuli tilling,1053-1271
+304,Small,Plastic house 2016,
+305,Small,NL. Pakistan 2015,
+306,Small,Subset(AB),26001-26050
+307,Small,Subset(AB),26051-26100
+308,Small,Subset(AB),26101-26150
+309,Small,Subset(AB),26151-26200
+310,Small,Subset(Botrytis),25401-25434
+311,Small,Subset(Botrytis),25435-25466
+312,Small,Subset(Botrytis),25467-25496
+313,Small,Subset(Botrytis),25491-25530
+314,Small,Subset(Botrytis),25531-25563
+315,Small,Subset(Botrytis),25564-25590
+316,Small,Subset(Botrytis),25591-25600
+317,Small,Subset(virus),26201-26240
+318,Small,Subset(virus),26241-26280
+319,Small,Subset(virus),26281-26320
+320,Small,Subset(virus),26322-26352
+321,Small,Subset(virus),26353-26381
+322,Small,Subset(virus),26382-26401
+323,Small,F7 prog. Adv. 2016,24301-24429
+324,Small,F7 prog. Adv. 2016,244431-24569
+325,Small,F7 prog. Adv. 2016,24570-24712
+326,Small,F7 prog. Adv. 2016,24713-24850
+327,Small,F7 prog. Adv. 2016,24851-24966
+328,Small,F7 prog. Adv. 2016,24967-25087
+329,Small,F7 prog. Adv. 2016,25088-25220
+330,Small,F7 prog. Adv. 2016,25221-25404
+331,Small,F7 prog. Adv. 2016,25405-25551
+332,Small,F7 prog. Adv. 2016,25552-25662
+333,Small,F7 prog. Adv. 2016,25663-25772
+334,Small,F7 prog. Adv. 2016,25773-25721
+335,Small,F7 prog. Adv. 2016,25922-26067
+336,Small,F7 prog. Adv. 2016,25068-26198
+337,Small,F7 prog. Adv. 2016,26201-26331
+338,Small,F7 prog. Adv. 2016,
+339,Small,F7 prog. Adv. 2016,
+340,Small,F7 prog. Adv. 2016,
+341,Small,F7 prog. Adv. 2016,
+342,Small,F7 prog. Adv. 2016,
+343,Small,F7 prog. Adv. 2016,
+344,Small,F7 prog. Adv. 2016,
+345,Small,PYT1-2017,11101-11132
+346,Small,PYT1-2017,11133-11164
+347,Small,PYT2-2017,11301-11332
+348,Small,PYT2-2017,11333-11364
+349,Small,PYT3-2017,11501-11532
+350,Small,PYT3-2017,11533-11564
+351,Small,PYT4-2017,11701-11732
+352,Small,PYT4-2017,11733-11764
+353,Small,PYT5-2017,12101-12132
+354,Small,PYT5-2017,12133-12332
+355,Small,PYT6-2017,12301-12332
+356,Small,PYT6-2017,12333-12364
+357,Small,PYT7-2017,12501-12532
+358,Small,PYT7-2017,12533-12564
+359,Small,PYT8-2017,12701-12732
+360,Small,PYT8-2017,12733-12764
+361,Small,INC.015 (AREC),
+362,Small,INC.015 (AREC),
+363,Small,"Bulk012, INC.014(AREC)",
+364,Small,"RILs(AB5)2016, RILs(AB6)2016",
+365,Small,RILs(AB6),
+366,Small,RILs(FW3),
+367,Small,Bulk2008,49801-50042
+368,Small,"CIBN013, CICTN013",
+369,Small,"Orobanche (inc), INC.015(AREC)",49001-49027
+370,Small,Bulk014,
+371,Small,Bulk014,
+372,Small,Bulk010,
+373,Small,Bulk010,
+374,Small,Bulk014(FW)2016,21001-21139
+375,Small,Bulk014(FW)2016,21140-21272
+376,Small,Bulk014(FW)2016,21273-21383
+377,Small,Bulk014(FW)2016,21384-21500
+378,Small,Bulk014(FW)2016,21501-21608
+379,Small,Bulk014(FW)2016,21608-21711
+380,Small,Bulk014(FW)2016,21712-21802
+381,Small,Bulk014(CT)2017,
+382,Small,Bulk014(CT)2017,
+383,Small,Bulk014(CT)2017,
+384,Small,Bulk014(CT)2017,
+385,Small,Bulk014(CT)2017,
+386,Small,Bulk014(CT)2017,
+387,Small,Bulk014(2015),
+388,Small,Bulk014(2015),
+389,Small,Bulk014(2015),
+390,Small,Bulk014(2015),
+391,Small,Bulk015(2016),33701-33849
+392,Small,Bulk015(2016),33550-34049
+393,Small,Bulk015(2016),34050-34259
+394,Small,Bulk015(2016),34261-34440
+395,Small,Kabuli tilling 2018,1-385
+396,Small,Kabuli tilling 2018,386-760
+397,Small,Kabuli tilling 2018,761-1035
+398,Small,Kabuli tilling 2018,1036
+399,Small,Herbicide 2017,
+400,Small,Plastic house INC. 2017,
+401,Small,Plastic house INC. 2018,
+402,Small,F5ssdE.(FW) 2017,
+403,Small,Summer 2017 + Dr. Alaa + Rem. Seed CB.018,
+404,Small,F6ssd E.(X011) 2016,
+405,Small,"F6prog. FW(2017), F6ssd E.(FW), F5ssd E.(FW) 2017",
+406,Small,F2bulk (2017),
+407,Small,F2bulk (2017),
+408,Small,F2bulk (2017),
+409,Small,"Herbicide(GY),  F3 herbicide(adv.), Kabuli tilling(GY)",
+410,Small,F3ssd(X012) 2015,
+411,Small,Subset2014,
+412,Small,F6ssd E.(X012) 2016,
+413,Small,F6ssd E.(X012) 2016,
+414,Small,F1 s' 2016,13002-13147
+415,Small,F1 s' 2016,13151-13266
+416,Small,F1 s' 2016,13267-13379
+417,Small,F1 s' 2016,13382-13611
+418,Small,F6 RILs(DR) 2017,
+419,Small,F6 RILs(FW3) 2016,
+420,Small,F6 RILs(FW3) 2016,
+421,Small,PYT1-W 2018,
+422,Small,PYT2-W 2018,
+423,Small,PYT3-W 2018,
+424,Small,PYT4-W 2018,
+425,Small,PYT5-W 2018,
+426,Small,PYT6-W 2018,
+427,Small,PYT1-S2018,23101-23225
+428,Small,PYT1-S2018 + PYT2-S2018,23226-24140
+429,Small,PYT2-S2018 + PYT3-S2018,24141-24250
+430,Small,PYT2-S2018 + PYT3-S2018,24251-25143
+431,Small,PYT3-S2018,25144-25240
+432,Small,PYT3-S2018 + PYT4-S2018,25241-26140
+433,Small,PYT4-S2018,26141-26235
+434,Small,PYT4-S2018 + PYT5-S2018,26236-27135
+435,Small,PYT5-S2018,27136-27230
+436,Small,PYT5-S2018 + PYT6-S2018,27231-28130
+437,Small,PYT6-S2018,28131-28227
+438,Small,PYT6-S2018,28228-28264
+439,Small,Magic-2018 (3pl),15001-15510
+440,Small,Magic-2018 (3pl),15511-16000
+441,Small,Magic-2018 (3pl),16001-16440
+442,Small,Magic-2018 (3pl),16441-16850
+443,Small,Magic-2018 (3pl),16851-17260
+444,Small,Magic-2018 (3pl),17661-17770
+445,Small,Magic-2018 (3pl),17771-18270
+446,Small,Magic-2018 (3pl),18271-18475
+447,Small,Magic bulk,15002-15240
+448,Small,Magic bulk,15241-15430
+449,Small,Magic bulk,15431-15646
+450,Small,Magic bulk,15647-15826
+451,Small,Magic bulk,15827-16011
+452,Small,Magic bulk,16012-16200
+453,Small,Magic bulk,16201-16400
+454,Small,Magic bulk,16401-16556
+455,Small,Magic bulk,15557-16741
+456,Small,Magic bulk,16742-16912
+457,Small,Magic bulk,16913-17065
+458,Small,Magic bulk,17066-17229
+459,Small,Magic bulk,17230-17400
+460,Small,Magic bulk,17401-17560
+461,Small,Magic bulk,17561-17714
+462,Small,Magic bulk,17715-17882
+463,Small,Magic bulk,17883-18085
+464,Small,Magic bulk,18086-18268
+465,Small,Magic bulk,18269-14475
+466,Small,Bulk016 (inc.2018),70001-70054
+467,Small,Bulk016 (inc.2018),70055-70100
+468,Small,Bulk016 (inc.2018),70101-70141
+469,Small,Bulk016 (inc.2018),71142-70181
+470,Small,Bulk016 (inc.2018),70182-70219
+471,Small,Bulk016 (inc.2018),70220-70263
+472,Small,Bulk016 (inc.2018),70264-70300
+473,Small,Bulk016 (inc.2018),70301-70342
+474,Small,Bulk016 (inc.2018),70343-70388
+475,Small,Bulk016 (inc.2018),70389-70433
+476,Small,Bulk016 (inc.2018),70434-70479
+477,Small,Bulk016 (inc.2018),70480-70522
+478,Small,Bulk016 (inc.2018),70533-70578
+479,Small,Bulk016 (inc.2018),70579-70627
+480,Small,Bulk016 (inc.2018),70628-70682
+481,Small,Bulk016 (inc.2018),70683-70713
+482,Small,F3 prog. E. 2018,10001-10095
+483,Small,F3 prog. E. 2018,10096-10201
+484,Small,F3 prog. E. 2018,10202-10312
+485,Small,F3 prog. E. 2018,10313-10408
+486,Small,F3 prog. E. 2018 + E. maturity2018,10409-10439
+487,Small,Herbicide(GY)2018 + Herbicide2018,
+488,Small,CB.018 (parents),1-1 to 61-2
+489,Small,CB.018 (parents),62-1 to 112-2
+490,Small,CB.018 (parents),113-1 to 157-2
+491,Small,CB.018 (parents),158-1 to 169-1
+492,Small,F6 RILs (CT2) 2018,12001-12120
+493,Small,F6 RILs (CT2) 2018,12122-12301
+494,Small,F6 RILs (CT2) 2018 + RILs (Salt2),12302-12340     33501-33529
+495,Small,RILs Salt2 (inc.) 2018,33401-33487
+496,Small,RILs AB7 (inc.) 2018,32801-32858
+497,Small,RILs AB7 (inc.) 2018,32860-32960
+498,Small,F1 s' 2018,14002-14274
+499,Small,F1 s' 2018,14275-14643
+500,Small,Pre- breeding2018 + RILs FW1(inc.) 2018,
+501,Small,RILs FW3(inc.)2018 + F3ssd(KF.)2018,
+502,Small,RILs FW4(inc.)2018,32001-32176
+503,Small,F6RILs (DR4) 2018,
+504,Small,Magic 2017,1-178
+505,Small,Magic 2017,179-345
+506,Small,Magic 2017,346-520
+507,Small,Magic 2017,521-700
+508,Small,Magic 2017,701-900
+509,Small,Magic 2017,901-1143
+510,Small,Magic 2017,1144-1360
+511,Small,Magic 2017,1361-1561
+512,Small,Magic 2017,1562-1770
+513,Small,Magic 2017,1771-1960
+514,Small,Magic 2017,1961-2160
+515,Small,Magic 2017,2161-2351
+516,Small,Magic 2017,2352-2590
+517,Small,Magic 2017,2591-2780
+518,Small,Magic 2017,2781-27305
